@@ -2,16 +2,16 @@
 <h1 align="center">Hi, I'm Minh Tam (also know as Fakku)</a>!</h1>
 
 
-<b>Full Name:</b> Hoang Minh Tam
+<b>Full Name :</b> Hoang Minh Tam
 </li>
 <li>
-<b>Nationality:</b> Vietnam
+<b>Nationality :</b> Vietnam
 </li>
 <li>
-<b>Loves:</b> Gaming, Coding and Editing
+<b>Loves :</b> Gaming, Coding and Editing
 </li>
 <li>
-<b>Gender:</b> Male ( ofcourse )
+<b>Gender :</b> Male ( ofcourse )
 </li>
 <li>
 <b>Favorite tools :</b> Visual Studio, Subline Text.
