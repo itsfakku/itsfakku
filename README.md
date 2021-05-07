@@ -25,7 +25,7 @@
    <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </p>
   <h1 align="center">Contact me</h1>
-  <p align="center"><a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a> <a href="https://www.facebook.com/iamfakku/" target="_blank"><img src="https://img.shields.io/badge/facebook%20-%1877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white&color=blue"/></a> <a href="mailto:viet2610vn@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail%20-%D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=red"/></a>
+  <p align="center"><a href="https://discordapp.com/users/377817931595120641/" target="_blank"><img src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a> <a href="https://www.facebook.com/iamfakku/" target="_blank"><img src="https://img.shields.io/badge/facebook%20-%1877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white&color=blue"/></a> <a href="mailto:viet2610vn@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail%20-%D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=red"/></a>
    </li>
 <li>
    Gaming Platform
