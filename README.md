@@ -29,4 +29,4 @@
    </li>
 <li>
    Gaming Platform
-   <p align="center"><a href="https://steamcommunity.com/id/ZombieOffical/" target="_blank"><img src="https://shields.io/badge/Steam-black?logo=steam&style=for-the-badge?"/></a>
+   <p align="center"><a href="https://steamcommunity.com/id/amifakku/" target="_blank"><img src="https://shields.io/badge/Steam-black?logo=steam&style=for-the-badge?"/></a>
