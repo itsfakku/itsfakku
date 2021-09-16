@@ -11,7 +11,7 @@
 <b>Loves :</b> Gaming, Coding and Editing
 </li>
 <li>
-<b>Gender :</b> Male ( ofcourse )
+<b>Gender :</b> Male
 </li>
 <li>
 <b>Favorite tools :</b> Visual Studio, Subline Text.
